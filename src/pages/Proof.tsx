@@ -71,6 +71,9 @@ const Proof = () => {
                   <p className="text-foreground">Market share rose from 0.2% to 2.8% in 12 months</p>
                   <p className="text-foreground">120+ MT stores live with consistent facings</p>
                   <p className="text-foreground">GT footprint expanded to 300+ outlets</p>
+                  <p className="font-bold text-primary mt-3">UAE Market Leadership</p>
+                  <p className="text-foreground">Ranked #4 in in-store visibility across Modern Trade and General Trade channels</p>
+                  <p className="text-muted-foreground text-sm italic">Source: Nielsen Retail Measurement Services, 2023</p>
                 </div>
               </div>
 
